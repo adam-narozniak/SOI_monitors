@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/Monitor_SOI.dir/fifo.cpp.o CMakeFiles/Monitor_SOI.dir/main.cpp.o CMakeFiles/Monitor_SOI.dir/producers.cpp.o CMakeFiles/Monitor_SOI.dir/test.cpp.o CMakeFiles/Monitor_SOI.dir/my_monitor.cpp.o CMakeFiles/Monitor_SOI.dir/consumers.cpp.o  -o Monitor_SOI 
